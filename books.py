@@ -26,6 +26,3 @@ for i in range(n):
 
 disp = map(lambda entry: entry.getId() + " " + entry.getName() + " " + entry.getAuthor(), book)
 print(list(disp))
-sakun
-palpa
-commit, init, etc
