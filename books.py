@@ -1,5 +1,5 @@
 
-sakuclass Book:
+class Book:
     def __init__(self, idd, name, author):
         self.idd = idd
         self.name = name
